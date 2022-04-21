@@ -60,7 +60,7 @@ async def on_ready():
  ▄████████▀   ▄████▀       ▀█████▀        ▄████████▀    ██████████ █████▄▄██   ███        ▄█████████▀   ▀██████▀     ▄████▀   
                                                                    ▀                                                          
 
-            - https://github.com/DraKenCodeZ/spy-selfbot-v6
+            - https://github.com/DraKenCodeZ/spy-sb-v6
             
     ・Logged in as {client.user}
     ・Type {SpyEncrypt1}help to get list of all the commands.
