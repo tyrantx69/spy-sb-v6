@@ -1,0 +1,9 @@
+discord.py==1.7.3
+httpx==0.22.0
+pypresence==4.2.1
+requests==2.27.1
+datetime==4.4
+asyncio==3.4.3
+threaded==4.1.0
+aiohttp==3.8.1
+time==1.0.0

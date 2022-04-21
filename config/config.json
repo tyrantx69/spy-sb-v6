@@ -1,0 +1,11 @@
+{
+    "Token":"",
+    "Prefix":"",
+    "AllowedUsers":[1234,5678,1337,3301],
+    "Note":"Enter user ids in allowed users like this, don't add quotation marks",
+    "Password":"",
+    "ChannelNames":["ChannelName1","ChannelName2"],
+    "RoleNames":["RoleName1","Rolename2"],
+    "ServerNames":["ServerName1","ServerName2"],
+    "WebhookSpamMessages":["SpamMessags1","SpamMessage2"]
+}
