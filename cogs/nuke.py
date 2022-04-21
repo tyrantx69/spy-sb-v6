@@ -18,7 +18,7 @@ async def delrolefunc(message,guild):
 	for role in guildobj.roles:
 		async with aiohttp.ClientSession(headers=main.headers) as ses:
 			async with ses.delete(f"https://discord.com/api/v10/guilds/{guildobj.id}/roles/{role.id}") as req:
-				if req.status == 204:
+				if req.status in [200,201,204]:
 					print(f"[+] Deleted role {role.id}")
 				elif req.status == 429:
 					try:
