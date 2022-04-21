@@ -5,5 +5,5 @@ requests==2.27.1
 datetime==4.4
 asyncio==3.4.3
 threaded==4.1.0
-aiohttp==3.8.1
-time==1.0.0
+aiohttp==3.7.4.post0
+tasksio==0.0.0.0
