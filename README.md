@@ -19,11 +19,11 @@ Open Config :
 # Developers :
 
 - `tyrant#0885`
-- `~ DraKen#5291`
+- `DraKen#3301`
 - `normal#3301`
 
 # Gfx And Artworks : 
-- `Sam..!#1337`
+- `HuntsMan'#9999`
 - `!...Freak#1337`
 
 # Troubleshooting :
