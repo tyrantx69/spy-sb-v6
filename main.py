@@ -68,7 +68,7 @@ async def on_ready():
     ・Logged in as {client.user}
     ・Type {SpyEncrypt1}help to get list of all the commands.
     ・Created by Team SPY™
-    ・https://discord.gg/gamer""")    
+    ・https://discord.gg/spy""")    
 
 
 for file in os.listdir("./cogs"):
