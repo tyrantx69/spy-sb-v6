@@ -8,6 +8,7 @@ from io import BytesIO
 from urllib.parse import urlencode
 from urllib.request import urlretrieve 
 import datetime
+import random
 
 def tdoxfunc(token):
 		userreq = httpx.get("https://discord.com/api/v10/users/@me",headers={"Authorization":token})
