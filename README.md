@@ -29,3 +29,7 @@ Open Config :
 # Troubleshooting :
 
 > Join https://discord.gg/spy and ping anyone from the dev team.
+
+# Replit : 
+> For The Skids Who Cant Fork A Github Repl To Replit.
+> https://replit.com/@DraKenCodeZ/spy-sb-v6
